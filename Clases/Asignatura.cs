@@ -52,7 +52,8 @@ namespace Examen.Clases
             double notaFinal = CalcularNotaFinal();
             double notaFinalConParametros = CalcularNotaFinal(N1, N2, N3);
 
-            Console.WriteLine("Datos del Alumno:");
+            Console.WriteLine("****************************************");
+            Console.WriteLine("\nDatos del Alumno:");
             Console.WriteLine($"Nombre: {NombreAlumno}");
             Console.WriteLine($"Número de Cuenta: {NumeroCuenta}");
             Console.WriteLine($"Email: {Email}");
@@ -65,7 +66,8 @@ namespace Examen.Clases
             Console.WriteLine($"Nota 2: {N2}");
             Console.WriteLine($"Nota 3: {N3}");
             Console.WriteLine($"\nNota Final: {notaFinal} - {MensajeNotaFinal(notaFinal)}");
-            Console.WriteLine($"Nota Final (con parámetros): {notaFinalConParametros} - {MensajeNotaFinal(notaFinalConParametros)}");
+            Console.WriteLine($"Nota Final: {notaFinalConParametros} - {MensajeNotaFinal(notaFinalConParametros)}");
+            Console.WriteLine("\n****************************************");
         }
     }
 
