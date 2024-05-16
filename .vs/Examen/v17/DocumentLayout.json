@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Luis\\source\\repos\\Examen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E197CB84-E305-4FC9-9A80-DDCFFD324CF5}|Examen.csproj|c:\\users\\luis\\source\\repos\\examen\\clases\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E197CB84-E305-4FC9-9A80-DDCFFD324CF5}|Examen.csproj|solutionrelative:clases\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E197CB84-E305-4FC9-9A80-DDCFFD324CF5}|Examen.csproj|c:\\users\\luis\\source\\repos\\examen\\interfaces\\iasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E197CB84-E305-4FC9-9A80-DDCFFD324CF5}|Examen.csproj|solutionrelative:interfaces\\iasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Examen\\Clases\\Asignatura.cs",
+              "RelativeDocumentMoniker": "Clases\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\Luis\\source\\repos\\Examen\\Clases\\Asignatura.cs",
+              "RelativeToolTip": "Clases\\Asignatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:37:12.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IAsignatura.cs",
               "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Examen\\Interfaces\\IAsignatura.cs",
               "RelativeDocumentMoniker": "Interfaces\\IAsignatura.cs",
@@ -43,20 +60,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Examen",
+              "DocumentIndex": 3,
+              "Title": "Examen.csproj",
               "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Examen\\Examen.csproj",
               "RelativeDocumentMoniker": "Examen.csproj",
               "ToolTip": "C:\\Users\\Luis\\source\\repos\\Examen\\Examen.csproj",
               "RelativeToolTip": "Examen.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-16T04:11:18.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T04:11:18.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Examen\\Clases\\Alumno.cs",
               "RelativeDocumentMoniker": "Clases\\Alumno.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "Clases\\Alumno.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:05:07.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T04:05:07.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luis\\source\\repos\\Examen\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T04:03:00.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T04:03:00.711Z"
             }
           ]
         }
